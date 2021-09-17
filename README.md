@@ -1,6 +1,6 @@
 # Python
-*downloads
-  python
-  python extension
+##downloads
+ -python
+ -python extension
 ##syntax
 *
