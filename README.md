@@ -1,5 +1,5 @@
 # Python
-## downloads
+*downloads
   *python
   *python extension
 ##syntax
